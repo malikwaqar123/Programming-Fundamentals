@@ -15,9 +15,11 @@ The program displays a star (*) pattern by printing increasing numbers of asteri
 
 # program 3
 This program displays a formatted table on the screen using tab (\t) and newline (\n) escape characters.
+
 Program description :
 The program prints a table showing items, their prices, and quantities in a well-formatted layout using tabs and new lines in C++.
 
 # program 4
 This program demonstrates the use of escape sequences in C++ by printing.
+
 The program displays text on the screen using escape characters such as quotation marks, backslashes, and new lines in C++.
