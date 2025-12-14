@@ -1,4 +1,4 @@
-# program 1
+#program 1
 
 Welcome to the C++ Lab!
 
