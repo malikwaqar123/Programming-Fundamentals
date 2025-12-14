@@ -1,7 +1,7 @@
 # program 1
 📌 Program Description
 
-User to enter an integer and checks whether the number is positive. If the number is greater than zero, it displays a message indicating that the number is positive. This program demonstrates basic input handling and decision-making using an if statement in C++.
+User to enter an integer and checks whether the number is positive. If the number is greater than zero, it displays a message indicating that the number is positive.
 
 # program 2
 📌 Program Description
